@@ -1,7 +1,7 @@
 Project Proposal
 
 Cardiovascular Disease
-Munirah Abdullah Alraqibah
+By Munirah Abdullah Alraqibah
 
 
 Abstract:
