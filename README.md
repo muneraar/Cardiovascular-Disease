@@ -1,10 +1,10 @@
-Project Proposal
+#Project Proposal
 
-Cardiovascular Disease
-Munirah Abdullah Alraqibah
+#Cardiovascular Disease
+#Munirah Abdullah Alraqibah
 
 
-Abstract:
+#Abstract:
 Healthcare expenses are overwhelming national and corporate resources due to asymptomatic diseases, including cardiovascular diseases. Therefore, there is an imperative need for primeval discovery and treatment of such diseases. Cardiovascular diseases (CVDs) are a group of disorders of the heart and blood vessels. The aim of this project is predicting heart disease of the patient through some predictors, listed in the description, by using classification techniques.
 
 Description of the dataset:
